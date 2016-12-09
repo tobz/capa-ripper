@@ -1,0 +1,12 @@
+[package]
+name = "capa-ripper"
+version = "0.1.0"
+authors = ["Toby Lawrence <tlawrence@edx.org>"]
+
+[dependencies]
+rayon = "*"
+rustc-serialize = "*"
+serde = "*"
+serde_json = "*"
+glob = "*"
+flate2 = "*"
